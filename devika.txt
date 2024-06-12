@@ -1,0 +1,6 @@
+To remove the sepcified file we should use a command called rm 
+that command should the file name which we want to remove from
+the staging  area.so directly it will not remove from the remote 
+respositely.so before going to remove any file from local machine
+to remove reprosetary we must remove that file from the staging
+area just
